@@ -1,5 +1,5 @@
 ### 👋 Hey there! 
-## [I'm Eugene, frontend developer from Russia](https://ashmee.github.io/)
+## [I'm Eugene, frontend developer](https://ashmee.github.io/)
 
 ------ 
 
